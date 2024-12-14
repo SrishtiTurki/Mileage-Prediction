@@ -33,7 +33,7 @@ To replicate this project, follow the steps below:
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/SrishtiTurki/Mileage-Prediction.git
     ```
 2. Install the required libraries:
     ```bash
